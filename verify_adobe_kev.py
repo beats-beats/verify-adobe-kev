@@ -1,6 +1,4 @@
 """
-Verify Adobe CVSS-band vs KEV results yourself (CYS122 A2, section 7).
-
 Put these in ONE folder:
   - every CVE-YYYY.json.xz you downloaded (leave them compressed; no need to extract)
   - the KEV file as known_exploited_vulnerabilities.csv
